@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoleCrave/static/css/main.694ee720.css",
+    "main.js": "/SoleCrave/static/js/main.fac1cde7.js",
+    "static/js/453.96453769.chunk.js": "/SoleCrave/static/js/453.96453769.chunk.js",
+    "index.html": "/SoleCrave/index.html",
+    "main.694ee720.css.map": "/SoleCrave/static/css/main.694ee720.css.map",
+    "main.fac1cde7.js.map": "/SoleCrave/static/js/main.fac1cde7.js.map",
+    "453.96453769.chunk.js.map": "/SoleCrave/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694ee720.css",
+    "static/js/main.fac1cde7.js"
+  ]
+}
