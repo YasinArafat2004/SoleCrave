@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SoleCrave/static/css/main.a27a6c66.css",
-    "main.js": "/SoleCrave/static/js/main.fac1cde7.js",
-    "static/js/453.96453769.chunk.js": "/SoleCrave/static/js/453.96453769.chunk.js",
-    "index.html": "/SoleCrave/index.html",
-    "main.a27a6c66.css.map": "/SoleCrave/static/css/main.a27a6c66.css.map",
-    "main.fac1cde7.js.map": "/SoleCrave/static/js/main.fac1cde7.js.map",
-    "453.96453769.chunk.js.map": "/SoleCrave/static/js/453.96453769.chunk.js.map"
+    "main.css": "/static/css/main.a27a6c66.css",
+    "main.js": "/static/js/main.2b4cc851.js",
+    "static/js/453.96453769.chunk.js": "/static/js/453.96453769.chunk.js",
+    "index.html": "/index.html",
+    "main.a27a6c66.css.map": "/static/css/main.a27a6c66.css.map",
+    "main.2b4cc851.js.map": "/static/js/main.2b4cc851.js.map",
+    "453.96453769.chunk.js.map": "/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a27a6c66.css",
-    "static/js/main.fac1cde7.js"
+    "static/js/main.2b4cc851.js"
   ]
 }
