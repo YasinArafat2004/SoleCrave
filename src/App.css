@@ -12,7 +12,7 @@ body::-webkit-scrollbar {
   }
 
 .card {
-	width: 300px;
+	width: 400px;
 	height: 400px;
 	border: 2px solid rgb(11, 18, 21);
 	overflow: hidden;
@@ -23,10 +23,15 @@ body::-webkit-scrollbar {
 img {
 	width: 250px;
 	height: 250px;
-	overflow: auto;
+	transition-duration: 2s ;
+	/* overflow: auto; */
 	border: 2px solid black;
 	border-radius: 10px;
 	margin: auto;
+}
+
+img:active {
+  transform: scale(1.5);
 }
 
 .btn {

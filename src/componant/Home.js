@@ -62,7 +62,7 @@ function Home() {
             </div>
             <div className="section2">
                 <h1>Follow Us</h1>
-                <a href="https://www.facebook.com/profile.php?id=61565291272973" target="_blank"><img className="img" src="https://raw.githubusercontent.com/YasinArafat2004/react-assets/main/images.png" alt="" /></a>
+                <a href="https://www.facebook.com/profile.php?id=61565291272973" target="_blank" ><img className="img" src="https://raw.githubusercontent.com/YasinArafat2004/react-assets/main/images.png" alt="" /></a>
             </div>
         </>
     )
