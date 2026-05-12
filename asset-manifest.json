@@ -1,15 +1,40 @@
 {
   "files": {
-    "main.css": "/SoleCrave/static/css/main.a27a6c66.css",
-    "main.js": "/SoleCrave/static/js/main.defb2b77.js",
+    "main.css": "/SoleCrave/static/css/main.4246acd3.css",
+    "main.js": "/SoleCrave/static/js/main.929f9ab1.js",
     "static/js/453.96453769.chunk.js": "/SoleCrave/static/js/453.96453769.chunk.js",
+    "static/media/campusblack.jpeg": "/SoleCrave/static/media/campusblack.1e4b169b4dcb9a609b52.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.49 PM (1).jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.49 PM (1).daefea1433d4e5c4dd29.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.49 PM (2).jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.49 PM (2).daefea1433d4e5c4dd29.jpeg",
+    "static/media/airforce1.jpg": "/SoleCrave/static/media/airforce1.7dfb3ac838abc890c4f3.jpg",
+    "static/media/running-green.jpeg": "/SoleCrave/static/media/running-green.0ece229ff901fe861bd1.jpeg",
+    "static/media/diorblack.jpeg": "/SoleCrave/static/media/diorblack.de2a4be6ca3057f10a17.jpeg",
+    "static/media/blackhigh.jpeg": "/SoleCrave/static/media/blackhigh.2e180e37b9ff00e47032.jpeg",
+    "static/media/newbalancebrown.jpeg": "/SoleCrave/static/media/newbalancebrown.61b06845cd071d8de846.jpeg",
+    "static/media/running-white.jpeg": "/SoleCrave/static/media/running-white.54c5c216a5ea80740584.jpeg",
+    "static/media/j4military.jpeg": "/SoleCrave/static/media/j4military.4a094fb1fdc064c91350.jpeg",
+    "static/media/j4grey.jpeg": "/SoleCrave/static/media/j4grey.c5d139aa4c1d27082c77.jpeg",
+    "static/media/zion.jpeg": "/SoleCrave/static/media/zion.0632c336c3c61fdcc23c.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM.jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM.e269e8d7d0109f862f2e.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM (2).jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM (2).5ae16edea3c35c6966c9.jpeg",
+    "static/media/sambagreen.jpeg": "/SoleCrave/static/media/sambagreen.148e6c3cc7a9aa509460.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM (1).jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.48 PM (1).1677a2c7f43b00008fd0.jpeg",
+    "static/media/sambablue.jpeg": "/SoleCrave/static/media/sambablue.2e75b136af66c6017d15.jpeg",
+    "static/media/j4_mili.jpg": "/SoleCrave/static/media/j4_mili.7b705547447bfe285e42.jpg",
+    "static/media/campusgrey2.jpeg": "/SoleCrave/static/media/campusgrey2.f8842efe976ebf38c082.jpeg",
+    "static/media/cream_high.jpeg": "/SoleCrave/static/media/cream_high.379cb6bf5d804c193fad.jpeg",
+    "static/media/jordan4ash.jpeg": "/SoleCrave/static/media/jordan4ash.be40caf6c566b591db3c.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.34.47 PM.jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.34.47 PM.b0384a1909f43f7cec1c.jpeg",
+    "static/media/newblanaceblue.jpeg": "/SoleCrave/static/media/newblanaceblue.bc9d15dab72e8cf306dd.jpeg",
+    "static/media/WhatsApp Image 2026-05-12 at 11.33.18 PM.jpeg": "/SoleCrave/static/media/WhatsApp Image 2026-05-12 at 11.33.18 PM.a949106a3e23e180a2bc.jpeg",
+    "static/media/runing_green.jpeg": "/SoleCrave/static/media/runing_green.b1697066718743086b88.jpeg",
     "index.html": "/SoleCrave/index.html",
-    "main.a27a6c66.css.map": "/SoleCrave/static/css/main.a27a6c66.css.map",
-    "main.defb2b77.js.map": "/SoleCrave/static/js/main.defb2b77.js.map",
+    "main.4246acd3.css.map": "/SoleCrave/static/css/main.4246acd3.css.map",
+    "main.929f9ab1.js.map": "/SoleCrave/static/js/main.929f9ab1.js.map",
     "453.96453769.chunk.js.map": "/SoleCrave/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a27a6c66.css",
-    "static/js/main.defb2b77.js"
+    "static/css/main.4246acd3.css",
+    "static/js/main.929f9ab1.js"
   ]
 }
